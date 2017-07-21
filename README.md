@@ -18,3 +18,7 @@ https://jsbin.com/zigamov/edit?js,console
 ### Writing a Todo List Reducer (Toggling a Todo)
 
 https://jsbin.com/cinoxit/edit?js,console
+
+### Reducer Composition with Arrays
+
+https://jsbin.com/bomuhek/edit?js,console

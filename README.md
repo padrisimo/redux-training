@@ -22,3 +22,17 @@ https://jsbin.com/cinoxit/edit?js,console
 ### Reducer Composition with Arrays
 
 https://jsbin.com/bomuhek/edit?js,console
+
+### React Todo List Example (Adding a Todo)
+
+http://jsbin.com/koqitur/edit?js,output
+
+### React Todo List Example (Toggling a Todo)
+
+http://jsbin.com/rahoner/1/edit?js,output
+
+### React Todo List Example (Filtering a Todo)
+
+https://jsfiddle.net/padrisimo/yht7nqjb/4/
+
+

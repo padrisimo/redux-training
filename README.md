@@ -35,4 +35,10 @@ http://jsbin.com/rahoner/1/edit?js,output
 
 https://jsfiddle.net/padrisimo/yht7nqjb/4/
 
+### Extracting Presentational Components (AddTodo, Footer, FilterLink) & Container Components (FilterLink) 
 
+https://jsfiddle.net/padrisimo/yht7nqjb/12/
+
+### Extracting Container Components (VisibleTodoList, AddTodo) 
+
+https://jsfiddle.net/padrisimo/yht7nqjb/13/

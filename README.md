@@ -42,3 +42,18 @@ https://jsfiddle.net/padrisimo/yht7nqjb/12/
 ### Extracting Container Components (VisibleTodoList, AddTodo) 
 
 https://jsfiddle.net/padrisimo/yht7nqjb/13/
+
+### Passing the Store Down Explicitly via Props
+
+https://jsfiddle.net/padrisimo/yht7nqjb/15/
+
+### Passing the Store Down Implicitly via Context
+
+https://jsfiddle.net/padrisimo/yht7nqjb/17/
+
+### Passing the Store Down with <Provider> from React Redux
+
+https://jsfiddle.net/padrisimo/yht7nqjb/20/
+
+
+

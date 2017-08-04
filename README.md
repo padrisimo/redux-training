@@ -55,5 +55,19 @@ https://jsfiddle.net/padrisimo/yht7nqjb/17/
 
 https://jsfiddle.net/padrisimo/yht7nqjb/20/
 
+### Generating Containers with connect() from React Redux (VisibleTodoList)
 
+https://jsfiddle.net/padrisimo/yht7nqjb/21/
+
+### Generating Containers with connect() from React Redux (AddTodo)
+
+https://jsfiddle.net/padrisimo/yht7nqjb/22/
+
+### Generating Containers with connect() from React Redux (FooterLink)
+
+https://jsfiddle.net/padrisimo/yht7nqjb/23/
+
+### Extracting Action Creators
+
+https://jsfiddle.net/padrisimo/yht7nqjb/24/
 
